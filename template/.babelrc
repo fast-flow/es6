@@ -1,0 +1,12 @@
+{
+    "presets": [
+        ["es2015", { "loose": true }]
+    ],
+    "plugins": [
+        "transform-flow-strip-types",
+        "syntax-flow",
+        "syntax-jsx",
+        "transform-decorators-legacy",
+        "transform-class-properties"
+    ]
+}
